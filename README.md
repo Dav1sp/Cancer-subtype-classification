@@ -29,7 +29,7 @@ This project investigates the application of machine learning techniques to clas
 
   - Preprocessing with feature scaling (e.g., StandardScaler).
 
-  -Feature selection (e.g., variance filtering, ANOVA F-test, correlation analysis).
+  - Feature selection (e.g., variance filtering, ANOVA F-test, correlation analysis).
 
   - Model training using at least two classifiers (e.g., SVM, Random Forest, Logistic Regression).
 
