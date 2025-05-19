@@ -25,14 +25,14 @@ This project investigates the application of machine learning techniques to clas
 
 - Pipeline components include:
 
-- - Cross-validation with K < 5 for model evaluation.
+  - Cross-validation with K < 5 for model evaluation.
 
-- - Preprocessing with feature scaling (e.g., StandardScaler).
+  - Preprocessing with feature scaling (e.g., StandardScaler).
 
-- -Feature selection (e.g., variance filtering, ANOVA F-test, correlation analysis).
+  -Feature selection (e.g., variance filtering, ANOVA F-test, correlation analysis).
 
-- - Model training using at least two classifiers (e.g., SVM, Random Forest, Logistic Regression).
+  - Model training using at least two classifiers (e.g., SVM, Random Forest, Logistic Regression).
 
-- - Hyperparameter tuning and performance evaluation using metrics: accuracy, precision, recall, and F1-score (mean ± standard deviation across folds).
+  - Hyperparameter tuning and performance evaluation using metrics: accuracy, precision, recall, and F1-score (mean Â± standard deviation across folds).
 
-- - Summarize model performance and discuss findings.
+  - Summarize model performance and discuss findings.
