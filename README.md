@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project investigates the application of machine learning techniques to classify molecular subtypes of Glioblastoma Multiforme (GBM), a highly aggressive brain cancer. Specifically, the study focuses on distinguishing between the Classical (prognostically favorable) and Mesenchymal (prognostically adverse) subtypes using high-dimensional gene expression data. Through both unsupervised and supervised learning approaches, the goal is to assess whether gene expression patterns can reveal intrinsic biological structure and enable accurate subtype prediction. The insights gained from this classification task can support improved prognosis and the development of personalized treatment strategies.
+This project investigates the application of machine learning techniques to classify molecular subtypes of Glioblastoma Multiforme (GBM), a highly aggressive brain cancer. Specifically, the study focuses on distinguishing between the Classical (prognostically favorable) and Mesenchymal (prognostically adverse) subtypes using high-dimensional gene expression data. Through both unsupervised and supervised learning approaches, the goal is to assess whether gene expression patterns can reveal intrinsic biological structure and enable accurate subtype prediction. The insights gained from this classification task can support improved prognosis and the development of personalized treatment strategies. 
 
 ## Project Scope
 
